@@ -110,6 +110,10 @@
   .greeting-image-div {
     height: 256px;
   }
+  .button-greeting-div {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media (max-width: 320px) {
