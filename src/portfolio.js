@@ -179,7 +179,7 @@ const workExperiences = {
     {
       role: "Data Engineer",
       company: "LiveScore",
-      companylogo: require("./assets/images/livescore_logo.png"),
+      companylogo: require("./assets/images/livescore.png"),
       date: "June 2023 – Present",
       desc: "Leading the development of our real time data platform. Utilizing Kafka, Spark and Google Cloud Platform to build a scalable and reliable data infrastructure. Bringing GenAI to livescore through the development of our internal RAG system.",
       descBullets: [
@@ -192,7 +192,7 @@ const workExperiences = {
     {
       role: "Data Engineer Apprentice",
       company: "Richemont",
-      companylogo: require("./assets/images/richemont_logo.jpeg"),
+      companylogo: require("./assets/images/richemont.jpeg"),
       date: "November 2022 – June 2023",
       desc: "Data Engineer in the data platform team. Data Modelling and ETL development with Python and SQL. Working on the FinOps team to optimize cloud costs.",
     },
