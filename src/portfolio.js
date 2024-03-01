@@ -23,10 +23,10 @@ const greeting = {
   username: "Alexander Girardet",
   title: "Hey there, I'm Alex",
   subTitle: emoji(
-    "Data Engineer and ML enthusiast with a knack for building scalable data solutions and advancing ML applications. My expertise spans creating real-time distributed systems using Kafka, to pioneering industrial-scale web scraping, and crafting end-to-end ML systems with a focus on MLOps efficiency. With a strong startup background, I'm committed to leveraging technology to solve complex challenges and drive innovation."
+    "Data Engineer and ML enthusiast, committed to building scalable, high-quality data systems aligned with business goals. With a startup-driven ethos, I innovate to solve complex challenges, driving technology forward to shape a future where data empowers global innovation."
   ),
   resumeLink:
-    "https://grand-leo-707.notion.site/Readwise-81de502fce7b4ad3b0824917301bb3f5", // Set to empty to hide the button
+    "https://drive.google.com/file/d/14LHfk9T_sbACNZRBGQoRGn-FfUxP5FN-/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true,
   knowledgeBaseLink: "https://publish.obsidian.md/alexgirardet/Welcome+to+my+Second+Brain",
   libraryLink: "https://grand-leo-707.notion.site/Readwise-81de502fce7b4ad3b0824917301bb3f5",
